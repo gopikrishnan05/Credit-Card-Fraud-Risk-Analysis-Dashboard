@@ -29,5 +29,7 @@ In this project, you’ll learn how to:
 
 # Tools & Skills
 Power BI for data visualization
+
 Data Analytics for identifying fraud trends
+
 Dashboard Design with interactive KPIs & filters
